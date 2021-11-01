@@ -16,6 +16,7 @@ $h1.addClass('logo');
 $main.addClass('wrapper');
 $firstP.addClass('intro');
 $h2.addClass('slug-head');
+$mainUl.addClass('slug-list');
 $img.addClass('slug-img');
 $slugListFirst.addClass('slug-list-first');
 $slugListLast.addClass('slug-list-last');
